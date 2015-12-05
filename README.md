@@ -1,2 +1,2 @@
 # demo-OC
-exercice OpenClassroom
+exercice OpenClassroom qui se passe pas trop mal avec VirtualBox qui rame
